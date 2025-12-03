@@ -2,7 +2,7 @@ This repository contains custom scripts and files for the manuscript:
 
 Bemmels et al. XXX.
 
-There was no substantial new program or software developed for this manuscript; rather, the focus of this repository is providing a few helper scripts showing how to process and format data, as well as These scripts are intended to supplement to the verbal explanations in the manuscript.
+There was no substantial new program or software developed for this manuscript; rather, the focus of this repository is providing a few helper scripts showing how to process and format data, as well illustrating how some of the more invovled pipelines were run. These scripts are intended to supplement to the verbal explanations in the manuscript.
 
 See the readme files in the subdirectories (contents also pasted below) for further info about the subdirectory contents.
 
