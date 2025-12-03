@@ -9,3 +9,9 @@ The modified gerpcol script that must be run prior to running this script is ava
 https://github.com/BeckySTaylor/Phylogenomic_Analyses/blob/main/gerp.tar.gz
 
 Taylor, R.S., Manseau, M., Keobouasone, S., Liu, P., Mastromonaco, G., Solmundson, K., Kelly, A., Larter, N.C., Gamberg, M., Schwantje, H., et al. (2024). High genetic load without purging in caribou, a diverse species at risk. _Curr. Biol._ **34**, 1234-1246.e7. https://doi.org/10.1016/j.cub.2024.02.002.
+
+### vcf_to_SNAPP_polarized.R
+
+This _R_ script is used to convert an unpolarized VCF file into a polarized SNAPP file, prior to calculating directionality index (psi).
+
+The alleles are polarized using the ancestral-derived definitions previously generated in the get_ancestralDerived_GERP.R script.
