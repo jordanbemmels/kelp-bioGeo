@@ -2,8 +2,6 @@
 
 # Author use only: GitHub version derived from custom KL19 script vcf_to_SNAPP_KL19_AKBCWA_maf05_10kbp_polarized.R, 2025/12/02;
 
-setwd("/project/ctb-grego/kelp/analyses/KL19/psi_stats");
-
 #####
 
 ### Prerequisites:
