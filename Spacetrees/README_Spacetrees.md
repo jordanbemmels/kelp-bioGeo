@@ -18,7 +18,7 @@ Snakemake pipeline to run Spacetrees for Nereocystis.
 
 ### requirements.txt, startup.sh, and utils.py
 
-Associated Snakemake files.
+Associated required files.
 
 ### spacetrees.py
 
