@@ -1,6 +1,6 @@
 # Spacetrees
 
-This directory contains Snakemake pipelines for running Spacetrees (Osmond and Coop 2004) to infer the locations of genetic ancestors.
+This directory contains Snakemake pipelines for running Spacetrees (Osmond and Coop 2004) to infer the locations of genetic ancestors. The files here do not provide conceptually novel code, but rather, illustrate how Spacetrees was run for the manuscript.
 
 All scripts in this directory are authored by Matt Osmond (University of Toronto).
 
